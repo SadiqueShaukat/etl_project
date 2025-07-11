@@ -1,0 +1,4 @@
+input_path: data/input/sample_data.csv
+output_db: data/output/output.db
+log_path: logs/etl.log
+log_level: INFO
